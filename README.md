@@ -5,4 +5,4 @@ Following command need to run in Automation-Assessment folder
 - npx playwright install
 
 To run the test cd/Automation-Assessment level, execute the following command. 
-npm run evn:dev
+ - npm run evn:dev
