@@ -1,0 +1,53 @@
+{
+  "cookies": [
+    {
+      "name": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+      "value": "eyJpdiI6IkxXWUEzbDNFR3dtRi9nblhXc0lqM1E9PSIsInZhbHVlIjoiTEZpK21ReXh6RHAzWDFZSXJPUTVZTUlTRnhpZkxCSEtOUXk3VWdrKzlLeXJDcWZOOU5QZVoyNnBTZUZNeCtWcDNEUUtXK1ptOGdRWXRpQjZtK0JMU2RObFZPWDFpVFZaL0ltOU1XYUc1YUlYRDlSTGJZYWZqbFc4MjNjemVqQ2NVVnJ3cDZaQWdJcm92UjZmQVRtNkNpYUU2dW54eXo2WmNpcmNpSWhmTVFIQUV4QnBNaHQxaWQ1SnZsNWpwK3l3VW1OWlYrbHBBQ2ZKbk0xZEcvSzc0bWZtU2k3Zzc2d1hDcHgyYU1JZ2Ywaz0iLCJtYWMiOiJmZmE0MThmZWY2ZTE3M2ZkMjM5MTU2Yjg0M2ViMmFjNGUwOGMxY2QzMzJlMGExZDQyZDQ3N2I0ZGUwMTk2NDYzIiwidGFnIjoiIn0%3D",
+      "domain": "demo.filamentphp.com",
+      "path": "/",
+      "expires": 1773971100.777604,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6ImpFMit5SlU1eCtRcSs1Zlc3VERrQmc9PSIsInZhbHVlIjoiRmlkdlhYWmkrV3l1WDdhalM0Q1RQRm90YWlRb0ZlQmhBNHlMVFdCYi9jQ3U5WkF6Ymx6b3ZCbUN1K3lKTVJOSytKUkFsRC8waHVGNFVzYWw4WGRWaTJFV2dlQ3ZobXZCcjlGaEZkNVo2S2FSelVDcElZeGxHU0lCYWx1RmRLTUIiLCJtYWMiOiJjNDQ0NmFlMTAxYzkyZGUyODJiMzQyZjA3MWQ3YTQzMzFkODE4YjU0MWUyYjAxYTBhZjk1Y2IzYmIxOGFlYjIwIiwidGFnIjoiIn0%3D",
+      "domain": "demo.filamentphp.com",
+      "path": "/",
+      "expires": 1739418300.983204,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "filament_demo_session",
+      "value": "eyJpdiI6IlJVRHExS3dqVko1VWEzL0RXWHpLVVE9PSIsInZhbHVlIjoidFNrQnp5M0R2TmtVdVMxUE8vMnJSWVVyek55SkxjK0VkaHU3OVdQbCtLN2lyZVpsTFg3Z093TU95Vmc0Q0ZzUUpsSzZzdGliemFSRG9xWHJuTmVSd2NOWlRjbkVjRWJNVmZYU3psNlc5ZzRQWTR0S25PUmw5bHFZaGdaOCt2MUciLCJtYWMiOiJjYjcxOGE0YjE4MjU5NzRiMWVkZDNkN2U4MTFmNDZlYzM2ZDQ1ODRmM2Q1YjViMTBhNzAwMThmODhmMGJmYTZmIiwidGFnIjoiIn0%3D",
+      "domain": "demo.filamentphp.com",
+      "path": "/",
+      "expires": 1739418300.983335,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://demo.filamentphp.com",
+      "localStorage": [
+        {
+          "name": "theme",
+          "value": "system"
+        },
+        {
+          "name": "isOpen",
+          "value": "true"
+        },
+        {
+          "name": "collapsedGroups",
+          "value": "[]"
+        }
+      ]
+    }
+  ]
+}

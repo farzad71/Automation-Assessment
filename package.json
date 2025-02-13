@@ -1,0 +1,21 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "env:dev": "cross-env test_env=dev npx playwright test --grep @regression --headed --project Regression --workers 1"
+ 
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.2.0",
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^20.8.3",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.3.1",
+    "playwright-teamcity-reporter": "^0.2.2"
+  }
+}
