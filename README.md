@@ -1,7 +1,8 @@
 #Playwright setup
-Following comand need to run in e2e/src level
-npm install
-npx playwright install
+Following command need to run in Automation-Assessment folder
 
-Inorder to run the test cd/src level then execute the following comand. 
+- npm install
+- npx playwright install
+
+To run the test cd/Automation-Assessment level, execute the following command. 
 npm run evn:dev
